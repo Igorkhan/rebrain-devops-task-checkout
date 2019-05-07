@@ -1,0 +1,1 @@
+this repo contain default nginx.conf file
